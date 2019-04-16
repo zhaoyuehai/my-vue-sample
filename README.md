@@ -1,6 +1,6 @@
 # my-vue-sample
 
-> A Vue.js project
+> A Vue.js project 调用的服务端项目是： https://github.com/zhaoyuehai/gradle-spring-demo
 
 ## Build Setup
 
